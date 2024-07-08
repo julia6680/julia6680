@@ -14,7 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-h3 align="center">
-<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
-</h3>
+img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
+
 --->
