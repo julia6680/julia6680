@@ -1,6 +1,6 @@
 # Hi 👋 I am julia! 
 - 👋 Hi, I’m @julia6680 
-- 👀 I’m interested in informatica
+- 👀 I’m interested in tecnologia
 - 🌱 I’m currently learning  html,css,python
 - Mentalidade de iniciante ( aberta para aprender )
 - 📫 How to reach me rodriguesdesouza@gmail.com
