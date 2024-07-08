@@ -3,7 +3,7 @@
 - 👀 I’m interested in informatica
 - 🌱 I’m currently learning  html,css,python
 - Mentalidade de iniciante ( aberta para aprender )
-- 📫 How to reach me ...
+- 📫 How to reach me rodriguesdesouza@gmail.com
 - 😄 Pronouns: trabalhar em casa, remoto;
 - ⚡ Fun fact: No mundo tc.
 -  <img src="https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=bear" width="400">
